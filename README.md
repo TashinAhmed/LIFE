@@ -1,4 +1,4 @@
-# GameOfLife
+# Conway's Game of Life
 Conway's game of life using C language &amp; OpenGL
 
 **Rules :**
