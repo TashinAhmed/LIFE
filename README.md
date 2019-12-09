@@ -1,4 +1,8 @@
 # Conway's Game of Life
+
+Zero player game for observing cellular automation & evaluation of their growth.
+more at https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 Conway's game of life using C language &amp; OpenGL
 
 **Rules :**
