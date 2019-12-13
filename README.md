@@ -2,6 +2,7 @@
 
 Zero player game for observing cellular automation & evaluation of their growth.
 more at https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+Numberphile : https://www.youtube.com/watch?v=R9Plq-D1gEk
 
 Conway's game of life using C language &amp; OpenGL
 
