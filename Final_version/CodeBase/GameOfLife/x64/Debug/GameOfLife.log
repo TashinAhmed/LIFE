@@ -1,0 +1,38 @@
+﻿  GameBoard.cpp
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(132,17): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(140,14): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(141,19): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(141,14): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(148,17): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(149,28): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(149,14): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(169,21): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(169,16): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(170,25): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(170,20): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(171,29): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(171,20): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(172,25): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(172,16): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(194,21): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(194,13): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(195,25): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(195,20): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(198,32): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(198,20): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(199,28): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(199,13): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(202,28): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(202,13): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(203,21): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(203,13): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(206,32): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(206,20): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(207,25): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Main.cpp
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp(207,20): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\Main.cpp(46,39): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\Main.cpp(85,41): warning C4305:  '=': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\GameOfLife\Source\Main.cpp(93,40): warning C4305:  '=': truncation from 'double' to 'float'
+  GameOfLife.vcxproj -> C:\Users\tashi\Desktop\GameOfLife\GameOfLife_CodeBase\x64\Debug\GameOfLife.exe
