@@ -32,3 +32,7 @@ The initial pattern constitutes the seed of the system. The first generation is 
 # Version 1.0
 Only B&W color used for alpha version.
 Player can only simulate the total process without additional information on hand.
+
+# Final Version
+All cell can be identified differently. 
+Random start and automatic simulation added.
